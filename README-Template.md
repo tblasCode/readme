@@ -56,3 +56,17 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+## References
+
+* https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html
+* https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html
+* https://openjdk.java.net/projects/code-tools/jmh/
+* https://openjdk.java.net/projects/loom/
+## Articles
+* https://dzone.com/articles/20-examples-of-using-javas-completablefuture
+* https://jaxenter.com/java-8-problems-112279.html
+* https://dzone.com/articles/whats-wrong-java-8-part-iii
+* https://blog.jooq.org/2014/06/13/java-8-friday-10-subtle-mistakes-when-using-the-streams-api/
+* https://blog.jooq.org/2017/07/03/are-java-8-streams-truly-lazy-not-completely/
+* https://dzone.com/articles/java-stream-api-was-broken-before-jdk-10
+* https://www.baeldung.com/java-8-challenges
